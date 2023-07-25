@@ -1,0 +1,31 @@
+button{
+    background-color: aquamarine;
+    border-color: aquamarine;
+    font-weight: bolder;    
+    border-radius: 100px;
+}
+
+.card .img-fit{
+ width: auto;
+ height: 30vh;
+ object-fit: scale-down;
+}
+
+.description{
+    background-color:rgb(248, 204, 211);
+    border-radius: 10px;
+    padding: 0.5rem;
+
+}
+
+.categoria{
+    background-color: rgb(186, 136, 233);
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+.precio{
+    font-weight: bolder;
+}
+h5{
+    font-style: italic;
+}
